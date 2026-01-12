@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Matt
-- 👀 I’m a Fullstack Javascript developper based in Bordeaux, France.
+- 👀 I’m a Fullstack Javascript developer based in Bordeaux, France.
 - 🌱 I’m currently working for CityTaps
